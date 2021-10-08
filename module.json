@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "fast-relog",
+    "author": "Ludsgit",
+    "description": "Takes you to character selection screen",
+    "version": "1",
+    "options": {
+        "niceName": "fRelog",
+        "reloadable": true,
+    "servers": ["https://raw.githubusercontent.com/Ludsgit/fast-reload/main/"]
+}
