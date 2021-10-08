@@ -8,5 +8,5 @@
         "niceName": "fRelog",
         "reloadable": true
     },
-    "servers": ["https://raw.githubusercontent.com/Ludsgit/fast-reload/main/"]
+    "servers": ["https://raw.githubusercontent.com/Ludsgit/fast-relog/main/"]
 }
